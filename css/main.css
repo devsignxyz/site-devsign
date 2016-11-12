@@ -43,8 +43,8 @@ p{
 	
 }
 hr {
-  border-top: 1px solid #e5e5e5;
-  border-bottom: 1px solid #fff;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333
 }
 #feature{
 	padding: 100px 0 50px;
